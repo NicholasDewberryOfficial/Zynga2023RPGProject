@@ -1,0 +1,6 @@
+So the main idea is that I want something simple
+
+1. basic dialogue showing on screen (basic = no animations, no moving text, nothing fancy)
+2. user able to choose multiple branching options and end up in different scenes 
+3. basic background
+4. basic art 
