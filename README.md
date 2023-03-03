@@ -1,2 +1,2 @@
 # Zynga2023RPGProject
- Cambrell Eldrige, Solomon Blount, Nicholas Dewberry
+ Cambrell Etheridge, Solomon Blount, Nicholas Dewberry
